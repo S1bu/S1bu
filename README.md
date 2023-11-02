@@ -8,7 +8,7 @@ Im here to improve on a daily basis.
 🔭 I’m currently working on my portfolio website.
 
 🌱 markup language include:
--HTML
+- HTML
 
 🌱 Styling languages include:
 - CSS
