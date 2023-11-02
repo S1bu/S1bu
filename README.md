@@ -2,7 +2,7 @@
 Hey Guys 👋🏾 Welcome to my Github profile
 
 
-I am <h1> Sibusiso Dyan </h1> 👓 ,a 23 year old Aspiring web developer💻 from south Africa 🌍.
+I am <h3> Sibusiso Dyan </h3> 👓 ,a 23 year old Aspiring web developer💻 from south Africa 🌍.
 Im here to improve on a daily basis.
 
 🔭 I’m currently working on my portfolio website.
