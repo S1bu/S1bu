@@ -17,8 +17,8 @@ Im here to improve on a daily basis.
 - Bootstrap
 
 🌱 programming languages include :
--Javascript 🚀
--Python🚀
+- Javascript 🚀
+- Python🚀
 
 🌱 Frameworks include :
 - Vue.js
